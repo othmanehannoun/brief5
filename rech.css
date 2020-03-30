@@ -1,0 +1,25 @@
+.main-content{
+    padding-top: 44px;
+    overflow: hidden;
+  }
+
+.content{
+    background-color: #eaeaea;
+    width: 96%;
+    padding: 2px 0px;
+    margin-left: 19px;
+    margin-top: 21px;
+    border-top: 2px solid #098DFA;
+    margin-bottom: 20px;
+}
+.content h4{
+    font-size: 33px;
+    margin-left: 25px;
+}
+
+.navbar{
+    border-radius: 5px;
+    width: 96%;
+    margin-left: 19px;
+    margin-top: 21px;
+}
